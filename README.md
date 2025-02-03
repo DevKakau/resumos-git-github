@@ -13,6 +13,7 @@ Curso sobre versionamento de codigo com git e github
 |--------|--------|
 |Criando resositorio no github| [RESUMO]()|
 |Clonando repositorio local| [RESUMO]()|
+|Conectando repositorio local com o remoto| [RESUMO]()|
 
 ## 🔍 REFERENCIAS 
 - [DIGITAL INNOVATION ONE](https://www.dio.me/)
